@@ -1,0 +1,52 @@
+.hotel-list{
+width:90%;
+height:150px;
+box-shadow: 5px 5px 5px #888888;
+background-color:#fff;
+margin-bottom: 20px;
+}
+
+.pd-tp-10{
+	padding-top: 10%;
+}
+
+.mar-30{
+	margin-top:100px;
+}
+
+.hotel-item-img{
+width:20%;
+height:100%;
+float:left;
+}
+
+.hotel-item-info{
+width:60%;
+height:100%;
+float:left;
+padding:0px 15px 15px 15px;
+}
+
+.hotel-item-button{
+width:20%;
+height:100%;
+float:left;
+}
+
+.info-hotel-name{
+margin-bottom:0px;	
+}
+
+.button-price{
+color:red;
+margin:0px;	
+}
+
+.button-start-p{
+margin-top:10px;
+}
+
+.button-color{
+	background:red;
+	color:white;
+}

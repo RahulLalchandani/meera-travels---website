@@ -1,0 +1,21 @@
+.footer-image
+{
+background-image:url(../Images/footer.jpg);
+width:100%;
+overflow: hidden;
+	
+}
+.footer-containers{
+margin:10px 80px;
+}
+.footer-item{
+	height:270px;
+	width:530;
+	float:left;
+	overflow:hidden;
+	background-repeat:no-repeat;
+	padding:10px;
+	margin:25px;
+	border-style: dashed;
+	border-color: white;
+}

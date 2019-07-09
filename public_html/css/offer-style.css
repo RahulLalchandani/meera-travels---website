@@ -1,0 +1,26 @@
+.offer-item{
+	height:210px;
+	width:230;
+	float:left;
+	margin:10px;
+	overflow:hidden;
+}
+.offer-contains{
+	
+	background:white;
+	margin:140px 0px 0px 0px;
+}
+.offer-item:hover .offer-contains{
+
+margin:12px;	
+-webkit-transition:all 0.5s ease-in-out;
+-moz-transition:all 0.5s ease-in-out;
+-o-transition:all 0.5s ease-in-out;
+transition:all 0.5s ease-in-out;
+}
+.offer-button{
+	
+	background:white;
+	border-color:green;
+	border-radius: 5px;
+}

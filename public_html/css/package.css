@@ -1,0 +1,36 @@
+.catalogs-item{
+width:30%;
+height:450px;
+float:left;
+overflow:hidden;
+border:1px solid;
+}
+
+.catalogs-img{
+width:100%;
+height:300px;
+}
+
+.catalogs-details{
+border-top:1px solid;
+height:50px;
+width:100%;	
+text-align:center;
+}
+
+.catalogs-name{
+font-size:18px;
+text-align:center;
+}
+
+.catalogs-price{
+font-size:15px;
+font-weight:bold;
+color:green;
+}
+
+.catalogs-strikeprice{
+font-size:10px;
+color:gray;	
+text-decoration:line-through;
+}
